@@ -1,0 +1,539 @@
+Sr. No.,Skill,Job Title,Exp. Level,Designation Offered,Gender,Joining Date,Current CTC,Salary Offered,Hike %,Offered CTC to Exp Ratio,Source,Status
+75,Java Appian,Applications Development Associate,0.85,Applications Development Associate,Male,15-Feb-21,280000,360000,29,4.24,Job Portal,Join
+146,Ops Lead,Application Support Project Lead,11.1,Application Support Project Lead,Male,10-May-21,1250000,1800000,44,1.62,Job Portal,Join
+11,Core Java,Applications Development Technical Team Leader,11,Applications Development Technical Team Leader,Male,18-Jan-21,1650000,2100000,27,1.91,Job Portal,Join
+28,Akana,Applications Development Module Lead,11,Applications Development Module Lead,Male,10-Mar-21,1000000,1600000,60,1.45,Job Portal,Join
+30,Java Support,Applications Development Technical Team Leader,9.8,Applications Development Technical Team Leader,Male,04-Jan-21,NA,1825000,#VALUE!,1.86,Other,Join
+39,GCP,TIDS Applications Development Architect,9.7,TIDS Applications Development Architect,Male,31-Mar-21,1900000,2850000,50,2.94,Job Portal,Join
+7,AWS,Applications Development Technical Team Leader,9.5,Applications Development Technical Team Leader,Male,12-Jan-21,1700000,2390000,41,2.52,Job Portal,Join
+40,Core Java,Applications Development Module Lead,9,Applications Development Module Lead,Male,15-Mar-21,1650000,1700000,3,1.89,Ex-Employee,Join
+126,Networking,Network Administration Module Lead,9,Network Administration Module Lead,Male,17-May-21,580000,900000,55,1,Job Portal,Join
+161,Business Analyst,Sr. Business Analyst,9,Sr. Business Analyst,Female,05-May-21,800000,880000,10,0.98,Employee Referral,Join
+85,Oracle DBA,Database Administration Module Lead,8.7,Database Administration Module Lead,Male,21-Apr-21,1200000,1900000,58,2.18,Job Portal,Join
+1,Fullstack,Applications Development Module Lead,8.5,Applications Development Module Lead,Male,04-Jan-21,1500000,1900000,27,2.24,Employee Referral,Join
+81,.NET,Applications Development Technical Team Leader,8,Applications Development Technical Team Leader,Male,10-May-21,1500000,2310000,54,0.98,Employee Referral,Join
+86,Oracle DBA,Database Administration Module Lead,8,Database Administration Module Lead,Male,24-May-21,1100000,1920000,75,2.4,Job Portal,Join
+134,AngularJS,Applications Development Technical Team Leader,7.6,Applications Development Technical Team Leader,Male,31-May-21,850000,1650000,94,2.17,Job Portal,Join
+147,SDET,Software Quality Assurance Module Lead,7.5,Software Quality Assurance Module Lead,Male,03-May-21,1100000,1550000,41,2.07,Job Portal,Join
+92,SQL DBA,Sr. TIDS Database Administrator,7.11,Sr. TIDS Database Administrator,Male,26-Apr-21,950000,1550000,63,2.18,Employee Referral,Join
+125,Networking,Network Administration Module Lead,7,Network Administration Module Lead,Male,26-Apr-21,700000,800000,14,1.14,Employee Referral,Join
+171,Service Desk,TIDS Service Desk Analyst,7,TIDS Service Desk Analyst,Male,03-May-21,400000,400000,0,0.57,Job Portal,Join
+78,SDET,Software Quality Assurance Module Lead,6.9,Software Quality Assurance Module Lead,Male,08-Feb-21,1300000,2150000,65,3.12,Social Media,Join
+167,Android,Sr. Application Developer,6.8,Sr. Applications Developer,Male,24-May-21,600000,1160000,93.33,1.71,Job Portal,Join
+144,DWH Tester,Software Quality Assurance Module Lead,6.6,Software Quality Assurance Module Lead,Female,19-Apr-21,1100000,1300000,18,1.97,Employee Referral,Join
+61,RPA,Applications Development Module Lead,6.5,Applications Development Module Lead,Male,17-Mar-21,720000,1110000,54,1.71,Job Portal,Join
+87,".NET Core, Microservices",Sr. Applications Developer,6.5,Sr. Applications Developer,Female,03-May-21,784000,1250000,59,1.92,Employee Referral,Join
+94,Manual Testing,TIDS Sr. Software Quality Assurance Analyst,6.5,TIDS Sr. Software Quality Assurance Analyst,Male,08-Apr-21,630000,1000000,59,1.54,Job Portal,Join
+160,".NET, Angular",Applications Development Module Lead,6.5,Applications development Module Lead,Male,31-May-21,935000,2000000,114,3.08,Job Portal,Join
+8,.NET,Sr. Applications Developer,6.4,Sr. Applications Developer,Male,25-Jan-21,1000000,1100000,10,1.72,Employee Referral,Join
+156,Application Support (L2),Application Support Module Lead,6.11,Application Support Module lead,Male,14-Apr-21,800000,1060000,33,1.73,Job Portal,Join
+5,SQL Dev,Applications Development Module Lead,6.1,Applications Development Module Lead,Male,27-Jan-21,840000,1275000,52,2.09,Job Portal,Join
+6,Storage Admin,Systems Administration Module Lead,6.1,Systems Administration Module Lead,Male,08-Feb-21,825000,1450000,76,2.38,Social Media,Join
+29,Akana,Sr. Applications Developer,6,Sr. Applications Developer,Male,10-Mar-21,1000000,1550000,55,2.58,Job Portal,Join
+42,Networking,Sr. Network Analyst,6,Sr. Network Analyst,Male,08-Mar-21,600000,900000,50,1.5,Job Portal,Join
+47,Java Support,Sr. Applications Support Analyst,6,Sr. Application Support Analyst,Male,31-Mar-21,800000,1450000,81,2.42,Job Portal,Join
+95,Manual Testing,Software Quality Assurance Module Lead,6,TIDS Sr. Software Quality Assurance Analyst,Female,10-Mar-21,500000,900000,80,1.5,Employee Referral,Join
+128,Networking,Sr. Network Analyst,6,Sr Network Analyst,Male,31-May-21,240000,350000,46,0.58,Job Portal,Join
+170,Business Analyst,Sr. Business Analyst,6,Sr. Business Analyst,Male,19-May-21,540000,980000,81,1.63,Employee Referral,Join
+148,Performance Testing,Software Quality Assurance Module Lead,5.7,Software Quality Assurance Module Lead,Male,17-May-21,630000,1550000,146,2.72,Job Portal,Join
+159,AngularJS,Sr. Applications Developer,5.7,Sr. Applications Developer,Male,24-May-21,1200000,1750000,46,3.07,Job Portal,Join
+22,IT,Service Desk Team leader,5.6,Service desk team leader,Female,05-Apr-21,520000,800000,54,1.43,Job Portal,Join
+27,SDET,Software Quality Assurance Module Lead,5.6,Software Quality Assurance Module Lead,Male,09-Mar-21,947000,1600000,69,2.86,Job Portal,Join
+76,RPA,Applications Development Module Lead,5.6,Applications Development Module Lead,Male,05-Apr-21,770000,1200000,56,2.14,Employee Referral,Join
+90,iOS,Sr. Applications Developer,5.6,Sr. Applications Developer,Male,26-May-21,1260000,1700000,35,3.04,Job Portal,Join
+97,Manual Testing,TIDS Sr. Software Quality Assurance Analyst,5.6,TIDS Sr. Software Quality Assurance Analyst,Male,26-Apr-21,950000,1080000,14,1.93,Employee Referral,Join
+13,SDET,TIDS Sr. Software Quality Assurance Analyst,5.5,Software Quality Assurance Module Lead,Male,26-May-21,811000,1800000,122,3.27,Vendor,Join
+60,Appian RPA,Sr. Application Support Analyst,5.5,Sr. Application Support Analyst,Male,08-Mar-21,550000,650000,18,1.18,Job Portal,Join
+82,Selenium,Software Quality Assurance Module Lead,5.5,Software Quality Assurance Module Lead,Male,24-May-21,800000,1550000,94,2.82,Job Portal,Join
+84,RF Designer,Sr. Technology Analyst,5.5,Sr. Technology Analyst,Male,03-Mar-21,520000,550000,6,1,Employee Referral,Join
+162,SQL DBA,Database Administration Module Lead,5.5,Sr. TIDS Database Administrator,Male,17-May-21,1200000,1600000,33,2.91,Job Portal,Join
+93,"GCP, DevOps",Applications Development Module Lead,5.4,Applications Development Module Lead,Male,24-May-21,1500000,2280000,52,4.22,Job Portal,Join
+155,AWS Cloud,Applications development Module Lead,5.3,Applications development Module Lead,Male,26-May-21,630000,1950000,210,3.68,Vendor,Join
+25,Mainframe Testing,TIDS Software Quality Assurance Analyst,5.2,TIDS Software Quality Assurance Analyst,Male,05-May-21,500000,950000,90,1.83,Job Portal,Join
+44,Build & Release,Applications Development Module Lead,5.1,Applications Development Module Lead,Male,05-Apr-21,950000,1800000,89,3.53,Job Portal,Join
+133,.NET Core,Applications Development Module Lead,5.1,Applications Development Module Lead,Male,26-May-21,1210000,2100000,74,4.12,Social Media,Join
+2,Finance,General Finance Specialist III,5,General Finance Specialist III,Female,08-Feb-21,450000,600000,33,1.2,Job Portal,Join
+77,RPA,Sr. Applications Developer,5,Sr. Applications Developer,Male,06-May-21,850000,1300000,53,2.6,Employee Referral,Join
+20,SDET,TIDS Sr. Software Quality Assurance Analyst,4.9,TIDS Sr. Software Quality Assurance Analyst,Male,03-May-21,650000,1860000,186,3.8,Job Portal,Join
+46,Java Support,Sr. Applications Support Analyst,4.9,Sr. Application Support Analyst,Female,01-Mar-21,1000000,1300000,30,2.65,Job Portal,Join
+139,"Playstation, Xbox",Sr. Applications Developer,4.9,Sr. Applications Developer,Male,19-Apr-21,650000,900000,38,1.84,Job Portal,Join
+3,RPA Support,Sr. Applications Developer,4.8,Sr. Applications Developer,Male,19-Jan-21,670000,1050000,57,2.19,Job Portal,Join
+12,"GCP, BigData",Sr. Applications Developer,4.8,Sr. Applications Developer,Male,10-May-21,1350000,1750000,30,3.65,Job Portal,Join
+83,RF Designer,Sr. Technology Analyst,4.8,Sr. Technology Analyst,Male,03-Mar-21,345000,475000,38,0.99,Employee Referral,Join
+88,Fullstack,Sr. Applications Developer,4.8,Sr. Applications Developer,Male,26-May-21,760000,1300000,71,2.71,Employee Referral,Join
+149,Performance Testing,Software Quality Assurance Module Lead,4.8,Software Quality Assurance Module Lead,Male,05-May-21,735000,1500000,104,3.13,Job Portal,Join
+10,Appian,Applications Development Module Lead,4.7,Sr. Applications Developer,Male,03-Feb-21,1250000,1750000,40,3.72,Job Portal,Join
+14,Fullstack,Sr. Applications Developer,4.6,Sr. Applications Developer,Male,07-Apr-21,1300000,1850000,42,4.02,Job Portal,Join
+172,Fullstack,Sr. Applications Developer,4.6,Sr. Applications Developer,Male,12-May-21,450000,850000,89,1.85,Employee Referral,Join
+58,Networking,Network Analyst,4.5,Network Analyst,Male,19-Apr-21,360000,450000,25,1,Job Portal,Join
+143,SQL DBA,Sr. TIDS Database Administrator,4.5,Sr. TIDS Database Administrator,Male,05-May-21,750000,1330000,77,2.96,Job Portal,Join
+173,Fullstack,Sr. Applications Developer,4.5,Sr. Applications Developer,Male,17-May-21,780000,1950000,150,4.33,Job Portal,Join
+178,PowerBI,Sr. Applications Developer,4.5,Sr. Applications Developer,Male,17-May-21,700000,950000,36,2.11,Job Portal,Join
+18,Fullstack,Sr. Applications Developer,4.4,Sr. Applications Developer,Male,01-Feb-21,870000,1585000,82,3.6,Job Portal,Join
+19,Business Central Support,Sr. Applications Developer,4.3,Sr. Applications Developer,Male,22-Jan-21,715000,1210000,69,2.81,Job Portal,Join
+23,Core Java,Sr. Applications Developer,4.3,Sr. Applications Developer,Male,20-Jan-21,500000,1000000,100,2.33,Job Portal,Join
+157,Billing Support,Sr. Application Support Analyst,4.3,Sr. Application Support Analyst,Male,18-May-21,650000,1210000,86,2.81,Job Portal,Join
+158,Python,Sr. Applications Developer,4.3,Sr. Applications Developer,male,03-May-21,550000,1200000,118,2.79,Job Portal,Join
+21,Operations Support,Sr. Application Support Analyst,4.2,Sr. Applications Support Analyst,Male,01-Mar-21,500000,850000,70,2.02,Job Portal,Join
+26,Networking,Network Analyst,4.2,Network Analyst,Male,18-Jan-21,318000,450000,42,1.07,Job Portal,Join
+67,Mobility (Android/ios),"Sr, Applications Developer",4.2,Sr. Applications Developer,Female,11-Feb-21,500000,950000,90,2.26,Employee Referral,Join
+17,Splunk,Sr. Applications Developer,4,Sr. Applications Developer,Male,17-Feb-21,1026000,1600000,56,4,Employee Referral,Join
+41,Informatica MDM,Sr. Applications Developer,4,Sr. Applications Developer,Male,18-Jan-21,850000,1600000,88,4,Social Media,Join
+49,SDET,TIDS Sr. Software Quality Assurance Analyst,4,TIDS Sr. Software Quality Assurance Analyst,Male,01-Mar-21,500000,1070000,114,2.68,Job Portal,Join
+89,AngularJS,Sr. Applications Developer,4,Sr. Applications Developer,Female,31-May-21,480000,830000,73,2.08,Vendor,Join
+96,Manual Testing,TIDS Sr. Software Quality Assurance Analyst,4,TIDS Sr. Software Quality Assurance Analyst,Male,05-Apr-21,400000,750000,88,1.88,Employee Referral,Join
+127,Networking,Sr. Network Analyst,4,Sr. Network Analyst,Male,19-May-21,300000,380000,27,0.95,Employee Referral,Join
+138,"API, Testing",TIDS Sr. Software Quality Assurance Analyst,4,TIDS Sr. Software Quality Assurance Analyst,Female,22-Mar-21,400000,600000,50,1.5,Job Portal,Join
+175,Fullstack,Sr. Applications Developer,4,Sr. Applications Developer,Female,24-May-21,832000,1700000,104,4.25,Job Portal,Join
+177,"API, Testing",Software Quality Assurance Analyst,4,TIDS Sr Software Quality Assurance Analyst,Male,12-May-21,650000,850000,31,2.13,Employee Referral,Join
+43,Build & Release,Sr. Applications Developer,3.9,Sr. Applications Developer,Male,26-Apr-21,1030000,1450000,41,3.72,Job Portal,Join
+141,ASP.NET,Sr. Applications Developer,3.7,Sr. Applications Developer,Male,12-May-21,430000,600000,40,1.62,Job Portal,Join
+24,Core Java,Sr. Applications Developer,3.6,Sr. Applications Developer,Male,04-Jan-21,800000,1000000,25,2.78,Employee Referral,Join
+31,Networking,Sr. Network Analyst,3.6,Sr. Network Analyst,Male,04-Jan-21,300000,520000,73,1.44,Job Portal,Join
+36,GCP,Sr. Applications Developer,3.6,Sr. Applications Developer,Male,07-Apr-21,490000,1200000,145,3.33,Job Portal,Join
+45,ServiceNow,Sr. Applications Developer,3.6,Sr. Applications Developer,Male,10-May-21,1100000,1650000,50,4.58,Employee Referral,Join
+62,RPA,Sr. Applications Developer,3.6,Sr. Applications Developer,Male,08-Mar-21,800000,1250000,56,3.47,Job Portal,Join
+65,Telecom Testing,TIDS Software Quality Assurance Analyst,3.6,TIDS Software Quality Assurance Analyst,Male,25-Jan-21,325000,650000,100,1.81,Ex-Employee,Join
+140,Networking,Sr. Network Analyst,3.6,Sr. Network Analyst,Male,31-May-21,640000,1200000,88,3.33,Job Portal,Join
+174,Service Desk,Service Desk Analyst II,3.4,Service Desk Analyst II,Male,10-May-21,350000,530000,51,1.56,Employee Referral,Join
+102,Networking,Network Analyst,3.3,Network Analyst,Male,05-May-21,390000,520000,33,1.58,Job Portal,Join
+163,ASP.NET,Sr. Applications Developer,3.3,Sr. Applications Developer,Male,12-May-21,390000,775000,99,2.35,Job Portal,Join
+164,DevOps,Sr. Applications Developer,3.2,Sr. Applications Developer,Male,26-Apr-21,485000,730000,51,2.28,Job Portal,Join
+165,DevOps,Applications Developer,3.2,Applications Developer,male,20-May-21,750000,1050000,40,3.28,Job Portal,Join
+35,Performance Testing,Sr. Software Quality Assurance Analyst,3.9,Sr. Software Quality Assurance Analyst,Female,24-May-21,750000,1300000,73,3.33,Job Portal,Join
+66,PowerBI,Applications Developer,3,Applications Developer,Female,21-Apr-21,660000,1250000,89,4.17,Job Portal,Join
+91,"Windows, cloud",Systems Administrator,3,Systems Administrator,Male,08-Mar-21,400000,560000,40,1.87,Job Portal,Join
+104,Networking,Sr. Network Analyst,3,Sr. Network Analyst,Male,03-May-21,260000,400000,54,1.33,Employee Referral,Join
+142,Accessibility Testing,TIDS Software Quality Assurance Analyst,3,TIDS Software Quality Assurance Analyst,Male,06-May-21,500400,800000,60,2.67,Employee Referral,Join
+166,Application Support,Application Support Analyst,3,Application Support Analyst,Male,19-Apr-21,450000,520000,16,1.73,Employee Referral,Join
+4,RPA Support,Sr. Application Support Analyst,2.9,Applications Developer,Male,03-Mar-21,500000,990000,98,3.41,Job Portal,Join
+131,Networking,Network Analyst,2.9,Network Analyst,Male,01-Apr-21,360000,450000,25,1.55,Job Portal,Join
+38,Windows Support,Systems Administrator,2.7,Systems Administrator,Male,04-Jan-21,340000,400000,18,1.48,Job Portal,Join
+130,Networking,Network Analyst,2.7,Network Analyst,Female,26-Apr-21,400000,520000,30,1.93,Job Portal,Join
+56,Service Desk,TIDS Service Desk Analyst,2.6,TIDS Service Desk Analyst,Female,01-Apr-21,260000,360000,38,1.38,Job Portal,Join
+121,Networking,Network Analyst,2.6,Network Analyst,Male,17-May-21,300000,420000,40,1.62,Job Portal,Join
+9,.NET,Applications Developer,2.5,Applications Developer,Male,19-May-21,400000,700000,75,2.8,Employee Referral,Join
+48,SDET,TIDS Software Quality Assurance Analyst,2.5,TIDS Software Quality Assurance Analyst,Male,20-Jan-21,440000,750000,70,3,Social Media,Join
+57,Networking,Network Analyst,2.5,Network Analyst,Male,05-Apr-21,292000,420000,44,1.68,Job Portal,Join
+150,Networking,Technology Associate,2.5,Technology Associate,Male,26-Apr-21,370000,470000,27,1.88,Employee Referral,Join
+50,.NET,Applications Developer,2.4,Applications Developer,Male,25-Jan-21,365000,700000,92,2.92,Job Portal,Join
+101,Networking,Network Analyst,2.4,Network Analyst,Male,31-May-21,340000,520000,53,2.17,Employee Referral,Join
+135,Performance Testing,TIDS Software Quality Assurance Analyst,2.4,TIDS Software Quality Assurance Analyst,Male,31-May-21,325000,550000,69,2.29,Job Portal,Join
+123,Networking,Network Analyst,2.1,Network Analyst,Male,17-May-21,182000,360000,98,1.71,Job Portal,Join
+129,Networking,Network Analyst,2.1,Network Analyst,Male,17-Mar-21,290000,430000,48,2.05,Job Portal,Join
+120,Networking,Network Analyst,2,Network Analyst,Male,05-May-21,156000,350000,124,1.75,Job Portal,Join
+176,ServiceDesk,TIDS Service Desk Analyst,2,TIDS Service Desk Analyst,Male,05-May-21,400000,228000,-43,1.14,Job Portal,Join
+151,Networking,Technology Associate,1.9,Technology Associate,Male,12-May-21,300000,420000,40,2.21,Employee Referral,Join
+80,Linux Admin,Systems Administrator,1.8,Systems Administrator,Male,22-Mar-21,200000,480000,140,2.67,Job Portal,Join
+16,Splunk,Applications Developer,1.5,Applications Developer,Male,06-Jan-21,680000,860000,26,5.73,Employee Referral,Join
+37,Linux Admin,Application Support Analyst,1.5,Application Support Analyst,Male,11-Jan-21,220000,360000,64,2.4,Job Portal,Join
+74,.NET,Applications Development Associate,1.5,Applications Development Associate,Male,17-Feb-21,250000,500000,100,3.33,Job Portal,Join
+122,Networking,Network Analyst,1.4,Network Analyst,Male,17-May-21,225000,300000,33,2.14,Job Portal,Join
+153,Service Desk,TIDS Service Desk Analyst,1.2,TIDS Service Desk Analyst,Male,17-May-21,180000,280000,56,2.33,Job Portal,Join
+68,.NET,Applications Development Associate,1,Applications Development Associate,Male,01-Mar-21,84000,192000,129,1.92,Employee Referral,Join
+132,Networking,Technology Associate,1,Technology Associate,Male,25-Mar-21,240000,340000,42,3.4,Job Portal,Join
+169,RPA Support,Application Support Analyst,0.6,Application Support Analyst,Male,24-May-21,0,240000,2400,4,Employee Referral,Join
+124,Networking,Network Administration Trainee,0.5,Network Administration Trainee,Male,03-May-21,0,192000,1920,3.84,Employee Referral,Join
+51,RPA,Applications Development Trainee,0.3,Applications Development Trainee,Male,11-Jan-21,0,325000,3250,10.83,Other,Join
+168,RPA Support,Application Support Analyst,0.3,Applications Support Analyst,Male,26-May-21,0,240000,2400,8,Employee Referral,Join
+15,Networking,Network Associate,0,Network Associate,Female,01-Feb-21,0,240000,2400,2.4,Job Portal,Join
+32,Networking,Network Associate,0,Network Associate,Male,20-Jan-21,0,240000,2400,2.4,Employee Referral,Join
+33,Networking,Network Associate,0,Network Associate,Male,01-Feb-21,0,240000,2400,2.4,Job Portal,Join
+34,Networking,Network Associate,0,Network Associate,Female,01-Apr-21,0,240000,2400,2.4,Job Portal,Join
+52,RPA,Applications Development Trainee,0,Applications Development Trainee,Female,11-Jan-21,0,325000,3250,3.25,Other,Join
+53,RPA,Applications Development Trainee,0,Applications Development Trainee,Female,11-Jan-21,0,325000,3250,3.25,Other,Join
+54,RPA,Applications Development Trainee,0,Applications Development Trainee,Female,11-Jan-21,0,325000,3250,3.25,Other,Join
+55,RPA,Applications Development Trainee,0,Applications Development Trainee,Male,03-Feb-21,0,325000,3250,3.25,Other,Join
+59,Appian RPA,Application Support Associate,0,Application Support Trainee,Male,18-Jan-21,0,325000,3250,3.25,Other,Join
+63,Networking,Network Associate,0,Network Associate,Male,01-Feb-21,0,240000,2400,2.4,Job Portal,Join
+64,RPA,Application Development Associate,0,Applications Development Associate,Male,11-Jan-21,0,325000,3250,3.25,Other,Join
+69,Appian,Applications Development Trainee,0,Applications Development Trainee,Male,22-Mar-21,0,325000,3250,3.25,Other,Join
+70,.NET,Applications Development Associate,0,Applications Development Trainee,Male,22-Mar-21,0,325000,3250,3.25,Other,Join
+71,Appian,Applications Development Trainee,0,Applications Development Trainee,Male,22-Mar-21,0,325000,3250,3.25,Employee Referral,Join
+72,Appian,Applications Development Trainee,0,Applications Development Trainee,Male,22-Mar-21,0,325000,3250,3.25,Other,Join
+73,Appian,Applications Development Trainee,0,Applications Development Trainee,Female,22-Mar-21,0,325000,3250,3.25,Other,Join
+79,ReactJS,Applications Development Associate,0,Applications Development Associate,Male,08-Feb-21,0,192000,1920,1.92,Employee Referral,Join
+98,Networking,Technology Trainee,0,Technology Trainee,Male,24-Mar-21,0,192000,1920,1.92,Others,Join
+99,Networking,Technology Trainee,0,Technology Trainee,Male,24-Mar-21,0,192000,1920,1.92,Others,Join
+100,Networking,Technology Trainee,0,Technology Trainee,Female,24-Mar-21,0,192000,1920,1.92,Job Portal,Join
+103,Networking,Technology Trainee,0,Technology Trainee,Male,17-May-21,0,192000,1920,1.92,Job Portal,Join
+105,Networking,Technology Trainee,0,Technology Trainee,Male,24-Mar-21,0,192000,1920,1.92,Job Portal,Join
+106,Networking,Technology Trainee,0,Technology Trainee,Male,25-Mar-21,0,192000,1920,1.92,Others,Join
+107,Networking,Technology Trainee,0,Technology Trainee,Male,25-Mar-21,0,192000,1920,1.92,Others,Join
+108,Networking,Technology Trainee,0,Technology Trainee,Male,25-Mar-21,0,192000,1920,1.92,Job Portal,Join
+109,Networking,Technology Trainee,0,Technology Trainee,Male,31-Mar-21,,192000,1920,1.92,Employee Referral,Join
+110,Networking,Technology Trainee,0,Technology Trainee,Male,24-Mar-21,0,192000,1920,1.92,Others,Join
+111,Networking,Technology Trainee,0,Technology Trainee,Male,24-Mar-21,0,192000,1920,1.92,Job Portal,Join
+112,Networking,Technology Trainee,0,Technology Trainee,Male,25-Mar-21,0,192000,1920,1.92,Job Portal,Join
+113,Networking,Technology Trainee,0,Technology Trainee,Male,31-Mar-21,0,192000,1920,1.92,Employee Referral,Join
+114,Networking,Technology Trainee,0,Technology Trainee,Male,01-Apr-21,0,192000,1920,1.92,Others,Join
+115,Networking,Application Support Trainee,0,Application Support Trainee,Female,17-Mar-21,0,192000,1920,1.92,Job Portal,Join
+116,Networking,Application Support Trainee,0,Application Support Trainee,Male,17-Mar-21,0,192000,1920,1.92,Job Portal,Join
+117,Networking,Application Support Trainee,0,Application Support Trainee,Male,17-Mar-21,0,192000,1920,1.92,Job Portal,Join
+118,Networking,Technology Trainee,0,Technology Trainee,Female,24-Mar-21,0,192000,1920,1.92,Job Portal,Join
+119,Networking,Technology Trainee,0,Technology Trainee,Male,24-Mar-21,0,192000,1920,1.92,Others,Join
+136,Networking,Network Associate,0,Network Associate,Male,12-May-21,0,240000,2400,2.4,Employee Referral,Join
+137,Networking,Network Associate,0,Network Associate,Male,05-Apr-21,0,192000,1920,1.92,Employee Referral,Join
+145,Service Desk,Service Desk Assistant,0,Service Desk Assistant,Female,14-Apr-21,0,192000,1920,1.92,Job Portal,Join
+152,Service Desk,Service Desk Assistant,0,Service Desk Assistant,Female,14-Apr-21,0,192000,1920,1.92,Job Portal,Join
+154,Service Desk,Service Desk Assistant,0,Service Desk Assistant,Female,05-May-21,0,192000,1920,1.92,Job Portal,Join
+29,Appian,Applications Development Trainee,0,Applications Development Trainee,Male,22-Mar-21,0,325000,3250,3.25,Other,Not-Join
+26,Service Desk,TIDS Service Desk Analyst,1.3,TIDS Service Desk Analyst,Male,17-Mar-21,300000,400000,33,3.08,Job Portal,Not-Join
+36,PowerBI,Applications Developer,2,Applications Developer,Male,19-Apr-21,250000,500000,100,2.5,Job Portal,Not-Join
+72,Fullstack,Sr. Applications Developer,3,Sr. Applications Developer,Male,17-May-21,1050000,1480000,41,4.93,Job Portal,Not-Join
+44,Fullstack,Sr. Applications Developer,3,Sr. Applications Developer,Male,19-Apr-21,770000,900000,17,3,Job Portal,Not-Join
+86,Java Support,Application Support Analyst,3,Application Support Analyst,Male,26-May-21,500000,850000,70,2.83,Employee Referral,Not-Join
+76,Mobility (Android/ios),Applications Development Module Lead,3,Applications Developer,Male,19-May-21,365000,800000,119,2.67,Job Portal,Not-Join
+85,Fullstack,Sr. Applications Developer,3.2,Sr. Applications Developer,Female,26-May-21,336000,700000,108,2.19,Job Portal,Not-Join
+18,SDET,TIDS Sr. Software Quality Assurance Analyst,3.3,TIDS Sr. Software Quality Assurance Analyst,Male,03-Mar-21,570000,1160000,104,3.52,Job Portal,Not-Join
+42,SDET,TIDS Sr. Software Quality Assurance Analyst,3.3,TIDS Software Quality Assurance Analyst,Male,19-May-21,875000,1150000,31,3.48,Vendor,Not-Join
+64,SDET,TIDS Software Quality Assurance Analyst,3.3,TIDS Software Quality Assurance Analyst,Female,03-May-21,450000,1050000,133,3.18,Job Portal,Not-Join
+14,Java Support,Application Support Analyst,3.3,Applications Support Analyst,Female,12-Feb-21,500000,900000,80,2.73,Job Portal,Not-Join
+27,Core Java,Sr. Applications Developer,3.6,Sr. Applications Developer,Female,22-Mar-21,450000,1150000,156,3.19,Job Portal,Not-Join
+38,ASP.NET,Sr. Applications Developer,3.8,Sr. Applications Developer,Male,12-Apr-21,550000,1010000,84,2.66,Job Portal,Not-Join
+15,.NET,Applications Developer,3.8,Sr. Applications Developer,Male,15-Feb-21,725000,975000,34,2.57,Employee Referral,Not-Join
+1,RPA Support,Sr. Applications Developer,3.84,Sr. Applications Developer,Female,11-Jan-21,700000,1275000,82,3.32,Job Portals,Not-Join
+32,SDET,TIDS Sr. Software Quality Assurance Analyst,3.9,TIDS Sr. Software Quality Assurance Analyst,Male,22-Mar-21,600000,1050000,75,2.69,Employee Referral,Not-Join
+31,Linux/Unix Support,Systems Administrator,3.9,Systems Administrator,Male,22-Mar-21,446000,850000,91,2.18,Job Portal,Not-Join
+90,Fullstack,Sr. Applications Developer,4,Sr. Applications Developer,Male,19-May-21,1000000,1550000,55,3.88,Employee Referral,Not-Join
+19,Fullstack,Sr. Applications Developer,4,Sr. Applications Developer,Male,15-Feb-21,950000,1470000,55,3.68,Job Portal,Not-Join
+24,Performance Testing,TIDS Sr. Software Quality Assurance Analyst,4,TIDS Sr. Software Quality Assurance Analyst,Male,08-Mar-21,630000,1100000,75,2.75,Job Portal,Not-Join
+56,RPA Support,Sr. Application Support Analyst,4,Sr. Application Support Analyst,Male,26-Apr-21,600000,1010000,68,2.53,Job Portal,Not-Join
+39,Manual Testing,TIDS Sr. Software Quality Assurance Analyst,4,TIDS Senior Software Quality Assurance Analyst,Female,21-Apr-21,650000,900000,38,2.25,Job Portal,Not-Join
+68,Manual Testing,TIDS Sr. Software Quality Assurance Analyst,4,TIDS Sr Software Quality Assurance Analyst,Male,28-Apr-21,650000,900000,38,2.25,Job Portal,Not-Join
+21,Fullstack,Sr. Applications Developer,4.1,Sr. Applications Developer,Male,01-Mar-21,950000,1600000,68,3.9,Job Portal,Not-Join
+8,MDX,Sr. Applications Developer,4.1,Sr. Applications Developer,Male,25-Jan-21,710000,1050000,48,2.56,Job Portals,Not-Join
+83,Fullstack,Sr. Applications Developer,4.2,Sr. Applications Developer,Male,26-May-21,1050000,1650000,57,3.93,Job Portal,Not-Join
+3,Java/J2EE,Sr. Applications Developer,4.2,Applications Developer,Male,18-Jan-21,350000,650000,86,1.55,Job Portals,Not-Join
+52,SDET,TIDS Sr. Software Quality Assurance Analyst,4.3,TIDS Sr. Software Quality Assurance Analyst,Male,26-Apr-21,610000,1100000,80,2.56,Vendor,Not-Join
+40,Java Support,Sr. Applications Support Analyst,4.3,Sr. Applications Support Analyst,Male,14-Apr-21,650000,1050000,62,2.44,Job Portal,Not-Join
+77,SDET,TIDS Sr. Software Quality Assurance Analyst,4.5,TIDS Sr. Software Quality Assurance Analyst,Male,19-May-21,750000,1350000,80,3,Vendor,Not-Join
+43,RPA,Sr. Applications Developer,4.5,Sr. Applications Developer,Male,26-Apr-21,800000,1250000,56,2.78,Job Portal,Not-Join
+79,SDET,TIDS Sr. Software Quality Assurance Analyst,4.5,TIDS Sr. Software Quality Assurance Analyst,Male,26-May-21,875000,1150000,31,2.56,Vendor,Not-Join
+45,MDM,Sr. Applications Developer,4.6,Sr. Applications Developer,Male,03-May-21,1064000,1550000,46,3.37,Job Portal,Not-Join
+67,GCP,Sr. Applications Developer,4.7,Sr. Applications Developer,Male,21-Apr-21,750000,1540000,105,3.28,Job Portal,Not-Join
+2,Oracle DBA,Sr. TIDS Database Administrator,4.8,Sr. TIDS Database Administrator,Male,13-Jan-21,562000,1150000,105,2.4,Job Portals,Not-Join
+69,Fullstack,Sr. Applications Developer,4.9,Sr. Applications Developer,Male,17-May-21,1000000,1520000,52,3.1,Job Portal,Not-Join
+23,SDET,TIDS Sr. Software Quality Assurance Specialist,4.9,TIDS Sr. Software Quality Assurance Analyst,Male,10-Mar-21,736000,1150000,56,2.35,Job Portal,Not-Join
+51,Java Support,Sr. Application Support Analyst,4.9,Sr. Application Support Analyst,Male,26-Apr-21,650000,1000000,54,2.04,Job Portal,Not-Join
+33,.NET,Sr. Applications Developer,4.9,Sr. Applications Developer,Male,26-Apr-21,600000,900000,50,1.84,Employee Referral,Not-Join
+11,SDET,Software Quality Assurance Module Lead,5,Software Quality Assurance Module Lead,Male,01-Feb-21,1000000,1700000,70,3.4,Vendor,Not-Join
+89,UI Developer,Sr. Applications Developer,5,Sr. Application Developer,Male,31-May-21,750000,1650000,120,3.3,Job Portal,Not-Join
+47,Operations Support,Sr. Application Support Analyst,5,Sr. Applications Support Analyst,Male,19-Apr-21,1020000,1160000,14,2.32,Job Portal,Not-Join
+6,Networking,Network Associate,5,Sr. Network Analyst,Male,18-Jan-21,405000,700000,73,1.4,Job Portals,Not-Join
+46,DevOps Support,Sr. Applications Developer,5.1,Sr. Applications Developer,Male,19-Apr-21,584000,1100000,88,2.16,Job Portal,Not-Join
+48,ServiceNow,Applications Development Module Lead,5.2,Applications Development Module Lead,Female,14-Apr-21,870000,1500000,72,2.88,Employee Referral,Not-Join
+65,CA Lisa,TIDS Sr. Software Quality Assurance Analyst,5.2,TIDS Sr. Software Quality Assurance Analyst,Male,12-May-21,903000,1350000,50,2.6,Job Portal,Not-Join
+10,SDET,TIDS Sr. Software Quality Assurance Analyst,5.2,TIDS Sr. Software Quality Assurance Analyst,Male,01-Feb-21,710000,1250000,76,2.4,Job Portals,Not-Join
+50,DevOps Support,Sr. Applications Developer,5.3,Sr. Applications Developer,Male,21-Apr-21,1200000,1550000,29,2.92,Job Portal,Not-Join
+9,Java Support,Sr. Applications Developer,5.3,Sr. Applications Developer,Male,25-Jan-21,1100000,1400000,27,2.64,Job Portals,Not-Join
+25,ETL,Sr. Applications Developer,5.3,Sr. Applications Developer,Male,03-Mar-21,850000,1210000,42,2.28,Job Portal,Not-Join
+16,Performance Testing,TIDS Sr. Software Quality Assurance Analyst,5.4,TIDS Sr. Software Quality Assurance Analyst,Male,15-Feb-21,700000,1400000,100,2.59,Job Portal,Not-Join
+54,Java Support,Sr. Applications Support Analyst,5.5,Sr. Application Support Analyst,Male,26-Apr-21,900000,1600000,78,2.91,Job Portal,Not-Join
+34,UI Developer,Sr. Applications Developer,5.5,Sr. Applications Developer,Male,05-Apr-21,500000,1350000,170,2.45,Job Portal,Not-Join
+4,D365 Business Central,Sr. Applications Developer,5.5,Sr. Applications Developer,Male,25-Jan-21,700000,1150000,64,2.09,Job Portals,Not-Join
+74,Fullstack,Applications Development Module Lead,5.6,Applications Development Module Lead,Male,10-May-21,1500000,1980000,32,3.54,Job Portal,Not-Join
+13,Core Java,Applications Development Module Lead,5.6,Applications Development Module Lead,Male,10-Feb-21,1000000,1550000,55,2.77,Job Portal,Not-Join
+59,UX Designer,Sr. Applications Developer,5.6,Sr. Applications Developer,Female,03-May-21,1200000,1480000,23,2.64,Job Portal,Not-Join
+37,Telecom Testing,TIDS Sr. Software Quality Assurance Analyst,5.6,TIDS Sr. Software Quality Assurance Analyst,Male,12-Apr-21,800000,1100000,38,1.96,Employee Referral,Not-Join
+60,Fullstack,Applications Development Module Lead,5.7,Applications Development Module Lead,Male,28-Apr-21,1400000,1870000,34,3.28,Job Portal,Not-Join
+87,"Weblogic, DevOps",Sr. Application Support Analyst,5.8,Sr. Application Support Analyst,Male,26-May-21,860000,1400000,63,2.41,Job Portal,Not-Join
+80,RPA,Applications Development Module Lead,5.8,Applications development Module Lead,Male,24-May-21,660000,1050000,59,1.81,Vendor,Not-Join
+35,Salesforce,Applications Development Module Lead,6,Applications Development Module Lead,Male,06-Apr-21,1270000,1900000,50,3.17,Job Portal,Not-Join
+73,Salesforce,Applications Development Module Lead,6,Applications Development Module Lead,Male,17-May-21,1230000,1800000,46,3,Job Portal,Not-Join
+82,SDET,Software Quality Assurance Module Lead,6,Software Quality Assurance Module Lead,Male,24-May-21,705000,1450000,106,2.42,Social Media,Not-Join
+78,Networking,Network Administration Module Lead,6.1,Network Administration Module Lead,Male,19-May-21,350000,500000,43,0.82,Employee Referral,Not-Join
+49,Performance Testing,Software Quality Assurance Module Lead,6.4,Software Quality Assurance Module Lead,Male,21-Apr-21,850000,1500000,76,2.34,Job Portal,Not-Join
+28,SDET,Software Quality Assurance Module Lead,6.5,Software Quality Assurance Module Lead,Male,15-Mar-21,1200000,1800000,50,2.77,Job Portal,Not-Join
+55,".NET Core, Microservices",Applications Development Module Lead,6.5,Applications Development Module Lead,Female,26-Apr-21,870000,1450000,67,2.23,Job Portal,Not-Join
+66,SDET,Software Quality Assurance Module Lead,6.5,Software Quality Assurance Module Lead,Male,26-Apr-21,650000,1100000,69,1.69,Job Portal,Not-Join
+58,".NET, Angular",Applications Development Module Lead,6.7,Applications Development Module Lead,Male,26-Apr-21,900000,1600000,78,2.39,Job Portal,Not-Join
+41,Akana,Sr. Applications Developer,6.9,Sr. Applications Developer,Male,16-Apr-21,600000,1250000,108,1.81,Job Portal,Not-Join
+70,Salesforce,Applications Development Technical Team Leader,7,Applications Development Technical Team Leader,Male,18-May-21,1380000,2500000,81,3.57,Job Portal,Not-Join
+30,"GCP, DevOps",Applications Development Module Lead,7,Applications Development Module Lead,Male,19-Mar-21,900000,1800000,100,2.57,Job Portal,Not-Join
+62,Selenium,Software Quality Assurance Module Lead,7.1,Software Quality Assurance Module Lead,Male,28-Apr-21,820000,1250000,52,1.76,Employee Referral,Not-Join
+88,.NET,Applications Development Module Lead,7.2,Applications Development Module Lead,Male,26-May-21,1610000,2410000,50,3.35,Job Portal,Not-Join
+7,PostgreSQL,Applications Development Module Lead,7.5,Applications Development Module Lead,Male,21-Jan-21,1250000,1700000,36,2.27,Job Portals,Not-Join
+71,RPA,Applications Development Module Lead,7.5,Applications Development Module Lead,Female,17-May-21,875000,1650000,89,2.2,Job Portal,Not-Join
+12,Core Java,Applications Development Module Lead,7.5,Applications Development Module Lead,Male,17-Feb-21,1000000,1550000,55,2.07,Job Portals,Not-Join
+53,Fullstack,Applications Development Module Lead,7.7,Applications Development Module Lead,Male,26-Apr-21,1540000,2070000,34,2.69,Vendor,Not-Join
+91,AngularJS,Applications Development Technical Team Leader,8,Applications Development Technical Team Leader,Male,31-May-21,1200000,2200000,83,2.75,Social Media,Not-Join
+84,SDET,Software Quality Assurance Module Lead,8,Software Quality Assurance Module Lead,Female,26-May-21,750000,1850000,147,2.31,Vendor,Not-Join
+81,".NET Core, Microservices",Applications Development Module Lead,8,Applications Development Technical Team Leader,Male,24-May-21,1320000,1800000,36,2.25,Job Portal,Not-Join
+63,Java,Applications Development Module Lead,8,Applications Development Module Lead,Male,03-May-21,1050000,1680000,60,2.1,Job Portal,Not-Join
+5,Core Java,Sr. Applications Developer,8,Applications Development Module Lead,Male,18-Jan-21,600000,1050000,75,1.31,Employee Referral,Not-Join
+75,.NET Core,Applications Development Technical Team Leader,8.5,Applications Development Technical Team Leader,Male,10-May-21,1400000,1900000,36,2.24,Job Portal,Not-Join
+61,Oracle Apps DBA,Database Administration Module Lead,9.4,Database Administration Module Lead,Male,05-May-21,1480000,1900000,28,2.02,Job Portal,Not-Join
+22,Salesforce,Applications Development Solutions Architect,9.6,TIDS Applications Development Architect,Male,08-Mar-21,2000000,2850000,43,2.97,Job Portal,Not-Join
+57,Salesforce,Applications Development Technical Team Leader,10.7,Applications Development Technical Team Leader,Male,26-Apr-21,2200000,2250000,2,2.1,Ex-Employee,Not-Join
+17,Operations Support,Sr. Application Support Analyst,4.85,Sr. Application Support Analyst,Male,13-Jan-21,700000,1020000,46,2.1,Job Portal,Not-Join
+20,Fullstack,Applications Development Module Lead,5.85,Applications Development Module Lead,Male,03-Mar-21,1200000,1850000,54,3.16,Job Portal,Not-Join
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
